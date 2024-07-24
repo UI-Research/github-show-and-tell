@@ -1,0 +1,86 @@
+---
+title: "7 GitHub Features that Spark Joy"
+subtitle: "In 7 minutes?"
+author: "Erika Tyagi"
+format: 
+  revealjs:
+    menu: false 
+    embed-resources: true
+    theme: urban.scss  
+---
+
+## 1. Suggested changes
+
+**Why?** To save you and your collaborators a few steps! 
+
+![](images/suggested-changes.png){width=50%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes)
+:::
+
+
+## 2. Draft pull requests
+
+**Why?** To encourage early (and work-in-progress) feedback! 
+
+![](images/draft-pr.png){width=40%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests )
+:::
+
+
+## 3. Wiki pages
+
+**Why?** Because not everything needs to go in your README! 
+
+![](images/wikis.png){width=45%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+:::
+
+
+## 4. Issue and pull request templates
+
+**Why?** Because reducing cognitive load is helpful! 
+
+![](images/pr-template.png){width=60%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+:::
+
+
+## 5. Custom issue labels
+
+**Why?** Because colors! (and organization)
+
+![](images/labels.png){width=45%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
+:::
+
+
+## 6. Releases and tags 
+
+**Why?** Because snapshots help regularly updated projects! 
+
+![](images/releases.png){width=45%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
+:::
+
+
+## 7. Markdown alerts 
+
+**Why?** Because they’re so aesthetically pleasing! 
+
+![](images/alerts.png){width=60%}
+
+::: aside
+[Link to documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
+:::
